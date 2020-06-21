@@ -6,9 +6,9 @@ Just wanted to perform a quick analysis using Tensorflow and Keras to make a pre
 I aim for this notebook to be short and not dwell in too much details on why certain parameters or models are selected. Purpose is to build a deep learning neural network model that perform well in making predictions on unseen data with optimal hyperparameters.
 
 ## References
-https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
-https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
-https://www.kaggle.com/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition
+1. https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+2. https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
+3. https://www.kaggle.com/lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition
 
 ## Data
 Data can be found [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
