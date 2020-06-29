@@ -1,4 +1,4 @@
-# Housing price prediction using Machine Learning and Deep Learning
+# Housing price prediction using Machine Learning and Deep Learning Models
 
 ## Summary
 Making a prediction on the Kaggle's Housing Price dataset using Machine Learning and Deep Learning approaches.  Details in the notebooks shared in the repository.
